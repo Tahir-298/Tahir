@@ -42,9 +42,9 @@
    <h2 style="color: red;>FILL OUT THIS FORM</h2>
    <form>
      <label for="user">Email Address</label>
-     <input type="email" id="user" name="email" placeholder="E-mail" required>
+     <div><input type="email" id="user" name="email" placeholder="E-mail" required></div>
       <label for="pass">Password</label>
-     <input type="password" id="pass" name="password" placeholder="Password" required>
-     <input type="submit" name="password" required>
+     <div><input type="password" id="pass" name="password" placeholder="Password" required></div>
+     <div><input type="submit" name="password" required></div>
    </form>
 </html>
