@@ -1,6 +1,6 @@
 <html>
    <body>
-      <h1>TAHI ORGANIZATION</h1>
+      <h1>TAHIR ORGANIZATION</h1>
   </body>
    <table>
       <thead>
@@ -38,4 +38,13 @@
              </tr>
         </tbody>
    </table>
+   <br> <br> <br>
+   <h2>FILL OUT THIS FORM</h2>
+   <form>
+     <label for="user">Email Address</label>
+     <input type="email" id="user" name="email" placeholder="E-mail" required>
+      <label for="pass">Password</label>
+     <input type="password" id="pass" name="password" placeholder="Password" required>
+     <input type="submit" name="password" required>
+   </form>
 </html>
