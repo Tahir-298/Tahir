@@ -39,7 +39,7 @@
         </tbody>
    </table>
    <br> <br> <br>
-   <h2>FILL OUT THIS FORM</h2>
+   <h2 style="color: red;>FILL OUT THIS FORM</h2>
    <form>
      <label for="user">Email Address</label>
      <input type="email" id="user" name="email" placeholder="E-mail" required>
